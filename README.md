@@ -47,3 +47,6 @@
 
 “Building blocks today, scalable systems tomorrow.”
 </pre>
+
+## My GitHub Contributions
+![Snake Dark](dist/github-snake-dark.svg)
