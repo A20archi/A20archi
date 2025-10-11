@@ -2,20 +2,32 @@ name: Generate Snake Game
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # daily
-  workflow_dispatch:      # manual trigger
+    - cron: "0 0 * * *"      # runs daily at midnight
+  workflow_dispatch:          # manual trigger
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
+
     steps:
+      # 1️⃣ Checkout the repo
       - uses: actions/checkout@v3
 
+      # 2️⃣ Generate the snake game
       - name: Generate Snake Game
         uses: Platane/snk@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: A20archi
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
             dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+
+      # 3️⃣ Commit the generated files back to the repo
+      - name: Commit generated snake files
+        uses: EndBug/add-and-commit@v9
+        with:
+          author_name: GitHub Actions
+          author_email: actions@github.com
+          message: "Update snake game"
+          add: "dist/*"
