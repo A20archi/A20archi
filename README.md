@@ -28,7 +28,7 @@
 🤖 AI-Powered Data Observability → <a href="https://github.com/Shadowed-stack/AI-Powered-Database-Observability">Click Here</a>
 
 📊 Stats & Achievements
-🌐 Codeforces: Saptarshi2005 - Rating 1100+
+🌐 Codeforces: Saptarshi2005 - Pupil @1230
 💻 LeetCode: Rishi_7 - 230+ problems solved
 📈 Striver Sheet: ~70% done (except Recursion, Trees, DP)
 
