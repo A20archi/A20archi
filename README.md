@@ -16,11 +16,44 @@
 <h1>Saptarshi Banerjee-IIT-BHU CSE|Striving for FAANG|Aspiring SDE</h1>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&multiline=true&width=500&height=100&lines=Booting+Brilliance+with+Code;Do+Follow+my+Github+Profile" alt="Typing SVG" /></a>
   
-📦  MERN | TypeScript | SQL | Fastify | Docker
-🌐  Connecting to Codeforces: Saptarshi2005 → <a href="https://codeforces.com/profile/Saptarshi2005">Click Here</a>
-💻  Fetching LeetCode: Rishi_7 → <a href="https://leetcode.com/u/Je11hWyTW6/">Click Here!</a>
-🚀  Preparing Projects...
-✅  System Online
+<!-- ================= Tech Stack Badges ================= -->
+
+<p align="left">
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+
+  <br/>
+
+  <!-- Backend -->
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+
+  <br/>
+
+  <!-- DevOps -->
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+</p>
+
+<!-- ================= Competitive Programming ================= -->
+
+<p align="left">
+  <a href="https://codeforces.com/profile/Saptarshi2005" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-Pupil%201230-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+  </a>
+
+  <a href="https://leetcode.com/u/Je11hWyTW6/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-230%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+</p>
+
 
 🛠️ Projects
 ⛏️ Studymate → <a href="https://github.com/A20archi/Studymate">Click Here</a>
@@ -48,5 +81,3 @@
 “Building blocks today, scalable systems tomorrow.”
 </pre>
 
-## My GitHub Contributions
-![Snake Dark](dist/github-snake-dark.svg)
